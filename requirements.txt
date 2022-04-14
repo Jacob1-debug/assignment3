@@ -1,0 +1,5 @@
+numpy==1.22.3
+SQLAlchemy==1.4.34
+Flask
+routes
+numpy
